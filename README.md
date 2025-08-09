@@ -20,6 +20,10 @@ This project is a web application designed to fetch and display case metadata an
 https://github.com/vishnuu5/Court-Data-Fetcher.git
 ```
 
+**Video-Demo**
+
+https://github.com/user-attachments/assets/69f5d45b-6f95-40fb-992e-12eafe656503
+
 ## Project Structure
 
 ```bash
